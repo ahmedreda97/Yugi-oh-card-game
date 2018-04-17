@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2d66ef7c57d99ee4caabd65cb86bea3d
+timeCreated: 1488669444
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cardigan Titling
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2580b62e3f783ff479fd66b4a0152a27, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
